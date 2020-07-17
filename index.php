@@ -11,9 +11,9 @@
 <body>
 <p>FORMULÁRIO PARA INSCRIÇÃO DE COMPETIDORES</p>
 <form action="script.php" method="post">
-    <p>Seu nome: <input type="text" name="nome" placeholder="nome"></p>
-    <p>Sua idade: <input type="text" name="idade" placeholder="idade"</p>
-    <p><input type="submit" name="ENVIAR"></p>
+    <p>Seu nome: <input type="text" name="nome"  placeholder="digite seu nome" /></p>
+    <p>Sua idade: <input type="text" name="idade" placeholder="digite sua idade" /></p>
+    <p><input type="submit" value="ENVIAR DADOS DO COMPETIDOR" /></p>
 </form>   
 </body>
 </html>
